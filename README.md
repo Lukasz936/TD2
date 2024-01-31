@@ -50,4 +50,4 @@ Your new action will run any time a pull request has been opened.
 
 </footer>
 
-:)
+:):)
